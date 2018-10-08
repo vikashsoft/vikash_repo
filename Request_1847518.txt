@@ -1,0 +1,536 @@
+<TXLife Version="2.20.00" xmlns="http://ACORD.org/Standards/Life/2">
+  <UserAuthRequest>
+    <UserLoginName />
+    <UserPswd>
+      <Pswd />
+    </UserPswd>
+    <VendorApp>
+      <VendorName VendorCode="1">EbixExchange</VendorName>
+      <AppName>AN3Production</AppName>
+      <AppVer>.0001</AppVer>
+    </VendorApp>
+  </UserAuthRequest>
+  <TXLifeRequest PrimaryObjectID="Holding1" id="TXLifeRequest1">
+    <TransRefGUID>d29c9cff-603f-4eb3-9e71-e92e5ac6db88</TransRefGUID>
+    <TransType tc="510">Form Instance Update</TransType>
+    <TransSubType tc="1022500310">Annuity Application for Mr. VICTOR ALMONTE JR</TransSubType>
+    <TransExeDate>2018-08-30</TransExeDate>
+    <TransExeTime>14:38:00Z</TransExeTime>
+    <TransMode tc="2">Original</TransMode>
+    <NoResponseOK tc="0" />
+    <TestIndicator tc="1">True</TestIndicator>
+    <OLifE>
+      <Holding id="Holding1">
+        <Policy>
+          <CarrierCode>FILI_FILI</CarrierCode>
+          <RequirementInfo id="ID_87f2b9c7-ea99-4948-b0cb-600dac223a2f_0">
+            <ReqCode tc="810" />
+            <RequirementInfoUniqueID>87f2b9c7-ea99-4948-b0cb-600dac223a2f_0_RequirementInfo</RequirementInfoUniqueID>
+            <FormNo>87f2b9c7-ea99-4948-b0cb-600dac223a2f</FormNo>
+            <ReqStatus tc="1" />
+            <RequestedDate>2018-08-30</RequestedDate>
+            <DueDate>2018-09-28</DueDate>
+            <DueTime>00:00:00.0Z</DueTime>
+          </RequirementInfo>
+          <RequirementInfo id="ID_9088f131-23b7-40c5-ab83-e76a7adfc0f1_0">
+            <ReqCode tc="810" />
+            <RequirementInfoUniqueID>9088f131-23b7-40c5-ab83-e76a7adfc0f1_0_RequirementInfo</RequirementInfoUniqueID>
+            <FormNo>9088f131-23b7-40c5-ab83-e76a7adfc0f1</FormNo>
+            <ReqStatus tc="1" />
+            <RequestedDate>2018-08-30</RequestedDate>
+            <DueDate>2018-09-28</DueDate>
+            <DueTime>00:00:00.0Z</DueTime>
+          </RequirementInfo>
+          <RequirementInfo id="ID_559d9db2-0ef5-4a75-8372-e037f3034949_0">
+            <ReqCode tc="810" />
+            <RequirementInfoUniqueID>559d9db2-0ef5-4a75-8372-e037f3034949_0_RequirementInfo</RequirementInfoUniqueID>
+            <FormNo>559d9db2-0ef5-4a75-8372-e037f3034949</FormNo>
+            <ReqStatus tc="1" />
+            <RequestedDate>2018-08-30</RequestedDate>
+            <DueDate>2018-09-28</DueDate>
+            <DueTime>00:00:00.0Z</DueTime>
+          </RequirementInfo>
+          <RequirementInfo id="ID_401ae630-14f6-449a-b7da-0e8149ba29dd_0">
+            <ReqCode tc="810" />
+            <RequirementInfoUniqueID>401ae630-14f6-449a-b7da-0e8149ba29dd_0_RequirementInfo</RequirementInfoUniqueID>
+            <FormNo>401ae630-14f6-449a-b7da-0e8149ba29dd</FormNo>
+            <ReqStatus tc="1" />
+            <RequestedDate>2018-08-30</RequestedDate>
+            <DueDate>2018-09-28</DueDate>
+            <DueTime>00:00:00.0Z</DueTime>
+          </RequirementInfo>
+          <RequirementInfo id="ID_afda3d58-c2fa-49c8-8093-58639e2ecc42_0">
+            <ReqCode tc="810" />
+            <RequirementInfoUniqueID>afda3d58-c2fa-49c8-8093-58639e2ecc42_0_RequirementInfo</RequirementInfoUniqueID>
+            <FormNo>afda3d58-c2fa-49c8-8093-58639e2ecc42</FormNo>
+            <ReqStatus tc="1" />
+            <RequestedDate>2018-08-30</RequestedDate>
+            <DueDate>2018-09-28</DueDate>
+            <DueTime>00:00:00.0Z</DueTime>
+          </RequirementInfo>
+          <RequirementInfo id="ID_f77f4efc-0d76-43af-b18c-a27afa2f05ba_0">
+            <ReqCode tc="810" />
+            <RequirementInfoUniqueID>f77f4efc-0d76-43af-b18c-a27afa2f05ba_0_RequirementInfo</RequirementInfoUniqueID>
+            <FormNo>f77f4efc-0d76-43af-b18c-a27afa2f05ba</FormNo>
+            <ReqStatus tc="1" />
+            <RequestedDate>2018-08-30</RequestedDate>
+            <DueDate>2018-09-28</DueDate>
+            <DueTime>00:00:00.0Z</DueTime>
+          </RequirementInfo>
+          <RequirementInfo id="ID_87f2b9c7-ea99-4948-b0cb-600dac223a2f_PRINCIPAL_REVIEWER_1" AppliesToPartyID="PRINCIPAL_REVIEWER_GROUP">
+            <ReqCode tc="1022500820" />
+            <RequirementInfoUniqueID>87f2b9c7-ea99-4948-b0cb-600dac223a2f_PRINCIPAL_REVIEWER_1_RequirementInfo</RequirementInfoUniqueID>
+            <FormNo>87f2b9c7-ea99-4948-b0cb-600dac223a2f</FormNo>
+            <ReqStatus tc="1" />
+            <RequestedDate>2018-08-30</RequestedDate>
+            <DueDate>2018-09-28</DueDate>
+            <DueTime>00:00:00.0Z</DueTime>
+          </RequirementInfo>
+          <RequirementInfo id="ID_87f2b9c7-ea99-4948-b0cb-600dac223a2f_PRIMARY_OWNER_1" AppliesToPartyID="PRIMARY_OWNER">
+            <ReqCode tc="1022500820" />
+            <RequirementInfoUniqueID>87f2b9c7-ea99-4948-b0cb-600dac223a2f_PRIMARY_OWNER_1_RequirementInfo</RequirementInfoUniqueID>
+            <FormNo>87f2b9c7-ea99-4948-b0cb-600dac223a2f</FormNo>
+            <ReqStatus tc="1" />
+            <RequestedDate>2018-08-30</RequestedDate>
+            <DueDate>2018-09-28</DueDate>
+            <DueTime>00:00:00.0Z</DueTime>
+          </RequirementInfo>
+          <RequirementInfo id="ID_9088f131-23b7-40c5-ab83-e76a7adfc0f1_PRIMARY_OWNER_1" AppliesToPartyID="PRIMARY_OWNER">
+            <ReqCode tc="1022500820" />
+            <RequirementInfoUniqueID>9088f131-23b7-40c5-ab83-e76a7adfc0f1_PRIMARY_OWNER_1_RequirementInfo</RequirementInfoUniqueID>
+            <FormNo>9088f131-23b7-40c5-ab83-e76a7adfc0f1</FormNo>
+            <ReqStatus tc="1" />
+            <RequestedDate>2018-08-30</RequestedDate>
+            <DueDate>2018-09-28</DueDate>
+            <DueTime>00:00:00.0Z</DueTime>
+          </RequirementInfo>
+          <RequirementInfo id="ID_559d9db2-0ef5-4a75-8372-e037f3034949_PRIMARY_OWNER_1" AppliesToPartyID="PRIMARY_OWNER">
+            <ReqCode tc="1022500820" />
+            <RequirementInfoUniqueID>559d9db2-0ef5-4a75-8372-e037f3034949_PRIMARY_OWNER_1_RequirementInfo</RequirementInfoUniqueID>
+            <FormNo>559d9db2-0ef5-4a75-8372-e037f3034949</FormNo>
+            <ReqStatus tc="1" />
+            <RequestedDate>2018-08-30</RequestedDate>
+            <DueDate>2018-09-28</DueDate>
+            <DueTime>00:00:00.0Z</DueTime>
+          </RequirementInfo>
+          <RequirementInfo id="ID_401ae630-14f6-449a-b7da-0e8149ba29dd_PRIMARY_OWNER_1" AppliesToPartyID="PRIMARY_OWNER">
+            <ReqCode tc="1022500820" />
+            <RequirementInfoUniqueID>401ae630-14f6-449a-b7da-0e8149ba29dd_PRIMARY_OWNER_1_RequirementInfo</RequirementInfoUniqueID>
+            <FormNo>401ae630-14f6-449a-b7da-0e8149ba29dd</FormNo>
+            <ReqStatus tc="1" />
+            <RequestedDate>2018-08-30</RequestedDate>
+            <DueDate>2018-09-28</DueDate>
+            <DueTime>00:00:00.0Z</DueTime>
+          </RequirementInfo>
+          <RequirementInfo id="ID_afda3d58-c2fa-49c8-8093-58639e2ecc42_PRIMARY_OWNER_1" AppliesToPartyID="PRIMARY_OWNER">
+            <ReqCode tc="1022500820" />
+            <RequirementInfoUniqueID>afda3d58-c2fa-49c8-8093-58639e2ecc42_PRIMARY_OWNER_1_RequirementInfo</RequirementInfoUniqueID>
+            <FormNo>afda3d58-c2fa-49c8-8093-58639e2ecc42</FormNo>
+            <ReqStatus tc="1" />
+            <RequestedDate>2018-08-30</RequestedDate>
+            <DueDate>2018-09-28</DueDate>
+            <DueTime>00:00:00.0Z</DueTime>
+          </RequirementInfo>
+          <RequirementInfo id="ID_f77f4efc-0d76-43af-b18c-a27afa2f05ba_PRIMARY_OWNER_1" AppliesToPartyID="PRIMARY_OWNER">
+            <ReqCode tc="1022500820" />
+            <RequirementInfoUniqueID>f77f4efc-0d76-43af-b18c-a27afa2f05ba_PRIMARY_OWNER_1_RequirementInfo</RequirementInfoUniqueID>
+            <FormNo>f77f4efc-0d76-43af-b18c-a27afa2f05ba</FormNo>
+            <ReqStatus tc="1" />
+            <RequestedDate>2018-08-30</RequestedDate>
+            <DueDate>2018-09-28</DueDate>
+            <DueTime>00:00:00.0Z</DueTime>
+          </RequirementInfo>
+        </Policy>
+      </Holding>
+      <Party id="AGENT_OF_RECORD">
+        <PartyTypeCode tc="1" />
+        <FullName>JEFFREY W CRAWFORD</FullName>
+        <GovtID>018749057</GovtID>
+        <GovtIDTC tc="1" />
+        <Person>
+          <FirstName>JEFFREY</FirstName>
+          <LastName>CRAWFORD</LastName>
+          <BirthDate>1900-01-01</BirthDate>
+        </Person>
+        <EMailAddress>
+          <EMailType tc="2" />
+          <AddrLine>JEFF.CRAWFORD@FMR.COM</AddrLine>
+        </EMailAddress>
+      </Party>
+      <Party id="PRIMARY_OWNER">
+        <PartyTypeCode tc="1" />
+        <FullName>Mr. VICTOR ALMONTE JR</FullName>
+        <GovtID>037264910</GovtID>
+        <GovtIDTC tc="1" />
+        <Person>
+          <FirstName>VICTOR</FirstName>
+          <LastName>ALMONTE JR</LastName>
+          <BirthDate>1940-08-13</BirthDate>
+        </Person>
+        <EMailAddress>
+          <EMailType tc="2" />
+          <AddrLine>valmonte3@cox.net</AddrLine>
+        </EMailAddress>
+      </Party>
+      <Party id="ESIG_HOST">
+        <PartyTypeCode tc="1" />
+        <FullName>JEFFREY W CRAWFORD</FullName>
+        <GovtID>000000000</GovtID>
+        <GovtIDTC tc="1" />
+        <Person>
+          <FirstName>JEFFREY</FirstName>
+          <LastName>CRAWFORD</LastName>
+          <BirthDate>1900-01-01</BirthDate>
+        </Person>
+        <EMailAddress>
+          <EMailType tc="2" />
+          <AddrLine>JEFF.CRAWFORD@FMR.COM</AddrLine>
+        </EMailAddress>
+      </Party>
+      <Party id="Distributor_1">
+        <PartyTypeCode tc="2" />
+        <FullName>Fidelity Investments</FullName>
+        <Organization />
+      </Party>
+      <Party id="CARRIER">
+        <PartyTypeCode tc="2" />
+        <FullName>New York Life</FullName>
+        <Organization>
+          <DTCCMemberCode>4571</DTCCMemberCode>
+        </Organization>
+      </Party>
+      <Party id="PRINCIPAL_REVIEWER_GROUP">
+        <PartyTypeCode tc="2" />
+        <FullName>Principal Reviewers Group</FullName>
+      </Party>
+      <Relation OriginatingObjectID="Holding1" RelatedObjectID="AGENT_OF_RECORD" id="Relation1">
+        <RelationRoleCode tc="37" />
+      </Relation>
+      <Relation OriginatingObjectID="Distributor_1" RelatedObjectID="AGENT_OF_RECORD" id="Relation_ProducerID">
+        <RelationRoleCode tc="120">Agent</RelationRoleCode>
+        <RelatedRefID>140160</RelatedRefID>
+      </Relation>
+      <FormInstance id="Form0">
+        <FormName>Fixed Deferred Checklist</FormName>
+        <ProviderFormNumber>82d0cfe4-ddfd-45d9-ad3b-72dbeb00ed8d</ProviderFormNumber>
+        <FormInstanceTrackingID>10791498</FormInstanceTrackingID>
+        <DocumentControlNumber>1847518</DocumentControlNumber>
+        <Attachment>
+          <AttachmentBasicType tc="3">File</AttachmentBasicType>
+          <Description>Fixed Deferred Checklist</Description>
+          <AttachmentData>18475186C2F31_f0_s.pdf</AttachmentData>
+          <AttachmentType tc="2550035">Other</AttachmentType>
+          <ImageType tc="4">PDF</ImageType>
+          <AttachmentLocation tc="2">URL</AttachmentLocation>
+          <FileName>FixedDeferredChecklist</FileName>
+          <Sequence>10791498</Sequence>
+        </Attachment>
+      </FormInstance>
+      <FormInstance id="Form1">
+        <FormName>Investor Profile Questionnaire_Deferred Annuity</FormName>
+        <ProviderFormNumber>87f2b9c7-ea99-4948-b0cb-600dac223a2f</ProviderFormNumber>
+        <FormInstanceTrackingID>10791499</FormInstanceTrackingID>
+        <DocumentControlNumber>1847518</DocumentControlNumber>
+        <Attachment>
+          <AttachmentBasicType tc="3">File</AttachmentBasicType>
+          <Description>Investor Profile Questionnaire_Deferred Annuity</Description>
+          <AttachmentData>1847518298AD2_f1_s.pdf</AttachmentData>
+          <AttachmentType tc="2550035">Questionnaire</AttachmentType>
+          <ImageType tc="4">PDF</ImageType>
+          <AttachmentLocation tc="2">URL</AttachmentLocation>
+          <FileName>InvestorProfileQuestionnaireDeferredAnnuity</FileName>
+          <Sequence>10791499</Sequence>
+          <SignatureInfo SignaturePartyID="PRIMARY_OWNER">
+            <SignatureCode>PRIMARY_OWNER1_SIGNATURE1</SignatureCode>
+            <SignatureDate>PRIMARY_OWNER1_SIGNATURE1_eSignDateSigned</SignatureDate>
+            <SignatureRenderType tc="1">Full</SignatureRenderType>
+            <SignatureRoleCode tc="8" />
+          </SignatureInfo>
+          <SignatureInfo SignaturePartyID="PRINCIPAL_REVIEWER_GROUP">
+            <SignatureCode>PRINCIPAL_REVIEWER1_SIGNATURE1</SignatureCode>
+            <SignatureDate>PRINCIPAL_REVIEWER1_SIGNATURE1_eSignDateSigned</SignatureDate>
+            <SignatureRenderType tc="1">Full</SignatureRenderType>
+            <SignatureRoleCode tc="225" />
+          </SignatureInfo>
+        </Attachment>
+      </FormInstance>
+      <FormInstance id="Form2">
+        <FormName>Customer Electronic Consent and Disclosure</FormName>
+        <ProviderFormNumber>1a9bf819-4af7-49f0-bac1-69346373f006</ProviderFormNumber>
+        <FormInstanceTrackingID>10791500</FormInstanceTrackingID>
+        <DocumentControlNumber>1847518</DocumentControlNumber>
+        <Attachment>
+          <AttachmentBasicType tc="3">File</AttachmentBasicType>
+          <Description>Customer Electronic Consent and Disclosure</Description>
+          <AttachmentData>18475181D4B67_f2_s.pdf</AttachmentData>
+          <AttachmentType tc="2550035">Other</AttachmentType>
+          <ImageType tc="4">PDF</ImageType>
+          <AttachmentLocation tc="2">URL</AttachmentLocation>
+          <FileName>CustomerElectronicConsentandDisclosure</FileName>
+          <Sequence>10791500</Sequence>
+        </Attachment>
+      </FormInstance>
+      <FormInstance id="Form3">
+        <FormName>DOL Disclosure</FormName>
+        <ProviderFormNumber>bc941ef6-af51-4f43-b84b-02ae28b0e029</ProviderFormNumber>
+        <FormInstanceTrackingID>10791501</FormInstanceTrackingID>
+        <DocumentControlNumber>1847518</DocumentControlNumber>
+        <Attachment>
+          <AttachmentBasicType tc="3">File</AttachmentBasicType>
+          <Description>DOL Disclosure</Description>
+          <AttachmentData>18475183032BC_f3_s.pdf</AttachmentData>
+          <AttachmentType tc="2550035">Other</AttachmentType>
+          <ImageType tc="4">PDF</ImageType>
+          <AttachmentLocation tc="2">URL</AttachmentLocation>
+          <FileName>DOLDisclosure</FileName>
+          <Sequence>10791501</Sequence>
+        </Attachment>
+      </FormInstance>
+      <FormInstance id="Form4">
+        <FormName>Application for Secure Term MVA 4-CW for required signature states</FormName>
+        <ProviderFormNumber>9088f131-23b7-40c5-ab83-e76a7adfc0f1</ProviderFormNumber>
+        <FormInstanceTrackingID>10791502</FormInstanceTrackingID>
+        <DocumentControlNumber>1847518</DocumentControlNumber>
+        <Attachment>
+          <AttachmentBasicType tc="3">File</AttachmentBasicType>
+          <Description>Application for Secure Term MVA 4-CW for required signature states</Description>
+          <AttachmentData>184751819F657_f4_s.pdf</AttachmentData>
+          <AttachmentType tc="2550035">ApplicationNonNava</AttachmentType>
+          <ImageType tc="4">PDF</ImageType>
+          <AttachmentLocation tc="2">URL</AttachmentLocation>
+          <FileName>ApplicationforSecureTermMVA4CWforrequiredsignaturestates</FileName>
+          <Sequence>10791502</Sequence>
+          <SignatureInfo SignaturePartyID="PRIMARY_OWNER">
+            <SignatureCode>PRIMARY_OWNER1_SIGNATURE1</SignatureCode>
+            <SignatureDate>PRIMARY_OWNER1_SIGNATURE1_eSignDateSigned</SignatureDate>
+            <SignatureRenderType tc="1">Full</SignatureRenderType>
+            <SignatureRoleCode tc="8" />
+          </SignatureInfo>
+        </Attachment>
+      </FormInstance>
+      <FormInstance id="Form5">
+        <FormName>Producer Statement for Fixed Annuities - Generic - required signature states</FormName>
+        <ProviderFormNumber>2ed216e7-3f16-4993-a0b2-f4509b5ed62e</ProviderFormNumber>
+        <FormInstanceTrackingID>10791503</FormInstanceTrackingID>
+        <DocumentControlNumber>1847518</DocumentControlNumber>
+        <Attachment>
+          <AttachmentBasicType tc="3">File</AttachmentBasicType>
+          <Description>Producer Statement for Fixed Annuities - Generic - required signature states</Description>
+          <AttachmentData>1847518469369_f5_s.pdf</AttachmentData>
+          <AttachmentType tc="2550035">ApplicationNonNava</AttachmentType>
+          <ImageType tc="4">PDF</ImageType>
+          <AttachmentLocation tc="2">URL</AttachmentLocation>
+          <FileName>ProducerStatementforFixedAnnuitiesGenericrequiredsignaturestates</FileName>
+          <Sequence>10791503</Sequence>
+        </Attachment>
+      </FormInstance>
+      <FormInstance id="Form6">
+        <FormName>Policy Features for MVA4</FormName>
+        <ProviderFormNumber>559d9db2-0ef5-4a75-8372-e037f3034949</ProviderFormNumber>
+        <FormInstanceTrackingID>10791504</FormInstanceTrackingID>
+        <DocumentControlNumber>1847518</DocumentControlNumber>
+        <Attachment>
+          <AttachmentBasicType tc="3">File</AttachmentBasicType>
+          <Description>Policy Features for MVA4</Description>
+          <AttachmentData>184751820E573_f6_s.pdf</AttachmentData>
+          <AttachmentType tc="2550035">Other</AttachmentType>
+          <ImageType tc="4">PDF</ImageType>
+          <AttachmentLocation tc="2">URL</AttachmentLocation>
+          <FileName>PolicyFeaturesforMVA4</FileName>
+          <Sequence>10791504</Sequence>
+          <SignatureInfo SignaturePartyID="PRIMARY_OWNER">
+            <SignatureCode>PRIMARY_OWNER1_SIGNATURE1</SignatureCode>
+            <SignatureDate>PRIMARY_OWNER1_SIGNATURE1_eSignDateSigned</SignatureDate>
+            <SignatureRenderType tc="1">Full</SignatureRenderType>
+            <SignatureRoleCode tc="8" />
+          </SignatureInfo>
+        </Attachment>
+      </FormInstance>
+      <FormInstance id="Form7">
+        <FormName>951e_Qualified Transfer Direct Rollover Form</FormName>
+        <ProviderFormNumber>401ae630-14f6-449a-b7da-0e8149ba29dd</ProviderFormNumber>
+        <FormInstanceTrackingID>10791505</FormInstanceTrackingID>
+        <DocumentControlNumber>1847518</DocumentControlNumber>
+        <Attachment>
+          <AttachmentBasicType tc="3">File</AttachmentBasicType>
+          <Description>951e_Qualified Transfer Direct Rollover Form</Description>
+          <AttachmentData>184751862AE42_f7_s.pdf</AttachmentData>
+          <AttachmentType tc="2550035">NonNaicReplacement</AttachmentType>
+          <ImageType tc="4">PDF</ImageType>
+          <AttachmentLocation tc="2">URL</AttachmentLocation>
+          <FileName>951eQualifiedTransferDirectRolloverForm</FileName>
+          <Sequence>10791505</Sequence>
+          <SignatureInfo SignaturePartyID="PRIMARY_OWNER">
+            <SignatureCode>PRIMARY_OWNER1_SIGNATURE1</SignatureCode>
+            <SignatureDate>PRIMARY_OWNER1_SIGNATURE1_eSignDateSigned</SignatureDate>
+            <SignatureRenderType tc="1">Full</SignatureRenderType>
+            <SignatureRoleCode tc="8" />
+          </SignatureInfo>
+        </Attachment>
+      </FormInstance>
+      <FormInstance id="Form8">
+        <FormName>NAIC Replacement  form </FormName>
+        <ProviderFormNumber>afda3d58-c2fa-49c8-8093-58639e2ecc42</ProviderFormNumber>
+        <FormInstanceTrackingID>10791506</FormInstanceTrackingID>
+        <DocumentControlNumber>1847518</DocumentControlNumber>
+        <Attachment>
+          <AttachmentBasicType tc="3">File</AttachmentBasicType>
+          <Description>NAIC Replacement  form </Description>
+          <AttachmentData>1847518140D25_f8_s.pdf</AttachmentData>
+          <AttachmentType tc="2550035">NaicReplacement</AttachmentType>
+          <ImageType tc="4">PDF</ImageType>
+          <AttachmentLocation tc="2">URL</AttachmentLocation>
+          <FileName>NAICReplacementform</FileName>
+          <Sequence>10791506</Sequence>
+          <SignatureInfo SignaturePartyID="PRIMARY_OWNER">
+            <SignatureCode>PRIMARY_OWNER1_SIGNATURE1</SignatureCode>
+            <SignatureDate>PRIMARY_OWNER1_SIGNATURE1_eSignDateSigned</SignatureDate>
+            <SignatureRenderType tc="1">Full</SignatureRenderType>
+            <SignatureRoleCode tc="8" />
+          </SignatureInfo>
+        </Attachment>
+      </FormInstance>
+      <FormInstance id="Form9">
+        <FormName>Replacement Form for Rhode Island – Internal Replacements</FormName>
+        <ProviderFormNumber>f77f4efc-0d76-43af-b18c-a27afa2f05ba</ProviderFormNumber>
+        <FormInstanceTrackingID>10791507</FormInstanceTrackingID>
+        <DocumentControlNumber>1847518</DocumentControlNumber>
+        <Attachment>
+          <AttachmentBasicType tc="3">File</AttachmentBasicType>
+          <Description>Replacement Form for Rhode Island – Internal Replacements</Description>
+          <AttachmentData>18475187AEA27_f9_s.pdf</AttachmentData>
+          <AttachmentType tc="2550035">NonNaicReplacement</AttachmentType>
+          <ImageType tc="4">PDF</ImageType>
+          <AttachmentLocation tc="2">URL</AttachmentLocation>
+          <FileName>ReplacementFormforRhodeIslandInternalReplacements</FileName>
+          <Sequence>10791507</Sequence>
+          <SignatureInfo SignaturePartyID="PRIMARY_OWNER">
+            <SignatureCode>PRIMARY_OWNER1_SIGNATURE1</SignatureCode>
+            <SignatureDate>PRIMARY_OWNER1_SIGNATURE1_eSignDateSigned</SignatureDate>
+            <SignatureRenderType tc="1">Full</SignatureRenderType>
+            <SignatureRoleCode tc="8" />
+          </SignatureInfo>
+        </Attachment>
+      </FormInstance>
+      <FormInstance id="Form10">
+        <FormName>Military Service Form Generic</FormName>
+        <ProviderFormNumber>36d45dc6-e70a-4bb7-a1ec-90720b930f28</ProviderFormNumber>
+        <FormInstanceTrackingID>10791508</FormInstanceTrackingID>
+        <DocumentControlNumber>1847518</DocumentControlNumber>
+        <Attachment>
+          <AttachmentBasicType tc="3">File</AttachmentBasicType>
+          <Description>Military Service Form Generic</Description>
+          <AttachmentData>18475184870D7_f10_s.pdf</AttachmentData>
+          <AttachmentType tc="2550035">Other</AttachmentType>
+          <ImageType tc="4">PDF</ImageType>
+          <AttachmentLocation tc="2">URL</AttachmentLocation>
+          <FileName>MilitaryServiceFormGeneric</FileName>
+          <Sequence>10791508</Sequence>
+        </Attachment>
+      </FormInstance>
+      <FormInstance id="Form11">
+        <FormName>Buckslip</FormName>
+        <ProviderFormNumber>51808caf-bd2a-499a-9779-2d27c27d81d1</ProviderFormNumber>
+        <FormInstanceTrackingID>10791509</FormInstanceTrackingID>
+        <DocumentControlNumber>1847518</DocumentControlNumber>
+        <Attachment>
+          <AttachmentBasicType tc="3">File</AttachmentBasicType>
+          <Description>Buckslip</Description>
+          <AttachmentData>1847518980CD0_f11_s.pdf</AttachmentData>
+          <AttachmentType tc="2550035">Other</AttachmentType>
+          <ImageType tc="4">PDF</ImageType>
+          <AttachmentLocation tc="2">URL</AttachmentLocation>
+          <FileName>Buckslip</FileName>
+          <Sequence>10791509</Sequence>
+        </Attachment>
+      </FormInstance>
+      <FormInstance id="Form12">
+        <FormName>Separation Sheet for Fidelity</FormName>
+        <ProviderFormNumber>98e8cfd0-9e05-4a04-825c-ae8e3bb3466c</ProviderFormNumber>
+        <FormInstanceTrackingID>10791510</FormInstanceTrackingID>
+        <DocumentControlNumber>1847518</DocumentControlNumber>
+        <Attachment>
+          <AttachmentBasicType tc="3">File</AttachmentBasicType>
+          <Description>Separation Sheet for Fidelity</Description>
+          <AttachmentData>1847518714D5C_f12_s.pdf</AttachmentData>
+          <AttachmentType tc="2550035">Other</AttachmentType>
+          <ImageType tc="4">PDF</ImageType>
+          <AttachmentLocation tc="2">URL</AttachmentLocation>
+          <FileName>SeparationSheetforFidelity</FileName>
+          <Sequence>10791510</Sequence>
+        </Attachment>
+      </FormInstance>
+      <FormInstance id="Form13">
+        <FormName>Privacy Policy Notice - Fidelity</FormName>
+        <ProviderFormNumber>4fd72a11-d945-4c4e-83b4-5e368cb5f84b</ProviderFormNumber>
+        <FormInstanceTrackingID>10791511</FormInstanceTrackingID>
+        <DocumentControlNumber>1847518</DocumentControlNumber>
+        <Attachment>
+          <AttachmentBasicType tc="3">File</AttachmentBasicType>
+          <Description>Privacy Policy Notice - Fidelity</Description>
+          <AttachmentData>184751837B6CF_f13_s.pdf</AttachmentData>
+          <AttachmentType tc="2550035">PrivacyNotice</AttachmentType>
+          <ImageType tc="4">PDF</ImageType>
+          <AttachmentLocation tc="2">URL</AttachmentLocation>
+          <FileName>PrivacyPolicyNoticeFidelity</FileName>
+          <Sequence>10791511</Sequence>
+        </Attachment>
+      </FormInstance>
+      <FormInstance id="Form14">
+        <FormName>Contract Summaries MVA IV CW</FormName>
+        <ProviderFormNumber>7ae7f181-fb94-4ac9-90de-9499b1dddf69</ProviderFormNumber>
+        <FormInstanceTrackingID>10791512</FormInstanceTrackingID>
+        <DocumentControlNumber>1847518</DocumentControlNumber>
+        <Attachment>
+          <AttachmentBasicType tc="3">File</AttachmentBasicType>
+          <Description>Contract Summaries MVA IV CW</Description>
+          <AttachmentData>18475183F2915_f14_s.pdf</AttachmentData>
+          <AttachmentType tc="2550035">SalesSummaryDisclosure</AttachmentType>
+          <ImageType tc="4">PDF</ImageType>
+          <AttachmentLocation tc="2">URL</AttachmentLocation>
+          <FileName>ContractSummariesMVAIVCW</FileName>
+          <Sequence>10791512</Sequence>
+        </Attachment>
+      </FormInstance>
+      <FormInstance id="Form15">
+        <FormName>Buyers Guide for Deferred Annuities 19008</FormName>
+        <ProviderFormNumber>ebb35c23-b0a1-4f9e-b9fd-535bf12c5be9</ProviderFormNumber>
+        <FormInstanceTrackingID>10791513</FormInstanceTrackingID>
+        <DocumentControlNumber>1847518</DocumentControlNumber>
+        <Attachment>
+          <AttachmentBasicType tc="3">File</AttachmentBasicType>
+          <Description>Buyers Guide for Deferred Annuities 19008</Description>
+          <AttachmentData>184751870FEC2_f15_s.pdf</AttachmentData>
+          <AttachmentType tc="2550035">Other</AttachmentType>
+          <ImageType tc="4">PDF</ImageType>
+          <AttachmentLocation tc="2">URL</AttachmentLocation>
+          <FileName>BuyersGuideforDeferredAnnuities19008</FileName>
+          <Sequence>10791513</Sequence>
+        </Attachment>
+      </FormInstance>
+      <OLifEExtension VendorCode="86">
+        <EnvelopeExpirationDays>29</EnvelopeExpirationDays>
+        <EmailNotification>
+          <EmailTemplateId>5aea8add-9f34-4083-adea-b0825049bbe0</EmailTemplateId>
+          <EmailSubjectLine>Your annuity application submitted by JEFFREY W CRAWFORD is ready to be signed - NYLA001478622</EmailSubjectLine>
+          <FollowupReminderDays>4</FollowupReminderDays>
+          <FollowupFrequency>5</FollowupFrequency>
+        </EmailNotification>
+        <GroupSigners LinkedPartyId="PRINCIPAL_REVIEWER_GROUP" id="1018" />
+        <SignatureCeremonyMethods>
+          <SignatureCeremonyMethod tc="10225001" VerifiedPartyID="AGENT_OF_RECORD" SigningSequence="1" />
+          <SignatureCeremonyMethod tc="10225001" VerifiedPartyID="PRIMARY_OWNER" SigningSequence="2" />
+          <SignatureCeremonyMethod tc="10225001" VerifiedPartyID="PRINCIPAL_REVIEWER_GROUP" SigningSequence="3" />
+        </SignatureCeremonyMethods>
+        <IdentityVerifications>
+          <IdentityVerification id="ID_VER_1" VerifiedPartyID="PRIMARY_OWNER">
+            <VerificationMethod tc="SMS">4014654472</VerificationMethod>
+          </IdentityVerification>
+          <IdentityVerification id="ID_VER_2" VerifiedPartyID="PRINCIPAL_REVIEWER_GROUP">
+            <VerificationMethod tc="DirectLink">331_PWI_BRANCH</VerificationMethod>
+          </IdentityVerification>
+        </IdentityVerifications>
+      </OLifEExtension>
+    </OLifE>
+  </TXLifeRequest>
+</TXLife>
