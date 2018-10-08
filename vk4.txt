@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hotmail.com. modified in first branch
+=======
+hotmail.com fofied in first branch
+>>>>>>> firstbranch
